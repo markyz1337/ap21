@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="18080" appversion="6.1.13" start="node1">
+  <panorama id="node1" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="1632" height="1632" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="516" levelbias="0.400">
+      <level preload="0" width="1632" height="1632" predecode="0"/>
+      <level preload="0" width="816" height="816" predecode="0"/>
+      <level preload="1" width="408" height="408" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="9" tilt="-5" fov="50"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="136"/>
+      <min pan="0" tilt="-90" fov="35.8"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="76.8" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="LIVING" tags="New folder" latitude="" author="" longitude="" nodeid="node1" datetime="2022:08:02 16:10:30" info="" source="" comment="" customnodeid="" copyright="" title="Str. Moinești, București" heading="0"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20" wordwrap="1" enabled="0" background="1" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle backgroundalpha="0.156863" bordercolor="0xcacaca" mode="2" handcursor="1" backgroundcolor="0xffffff" borderalpha="0.392157"/>
+      <polyhotspot url="" id="panoinfo" description="Text de testare 2" target="_blank" title="Oglinda">
+        <polystring>-29.96/-6.6|-28.83/-5.94|-27.87/-4.29|-27.31/-1.88|-27.24/0.51|-27.4/2.96|-28.03/5.38|-29.09/6.8|-29.89/7.06|-30.96/6.7|-31.76/5.39|-32.59/3.04|-32.78/0.35|-32.55/-2.38|-32.15/-4.33|-31.45/-5.81|-30.59/-6.43</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="panoinfo" description="Masa unui corp sau a unei particule este una din cele 7 mărimi fizice fundamentale. Masa se definește ca o mărime ce determină măsura inerției unui corp sau particulă, determinabilă la nivel macroscopic și măsurată, de asemenea, macroscopic. Totodată, masa, prin intermediul masei atomice este legată de cantitatea de substanță conținută într-un corp sau sistem fizic închis. Masa este o mărime fundamentală, scalară și extensivă; pentru sistemele fizice macroscopice are caracter de mărime globală. A nu se confunda cu greutatea unui corp, care este o forță." backgroundalpha="0" bordercolor="0x0000ff" target="_blank" title="Masa" backgroundcolor="0x0000ff" borderalpha="0">
+        <polystring>-5.28/-11.29|-4.59/-11.11|-3.97/-10.83|-3.69/-10.39|-3.88/-10.06|-4.76/-9.62|-5.92/-9.41|-8.03/-9.12|-10.37/-9.03|-13.05/-9.13|-16.6/-9.42|-18.07/-9.93|-18.41/-10.38|-18.3/-10.73|-17.53/-11.14|-16.07/-11.54|-15.83/-11.05|-15.34/-11.02|-10.2/-11.22|-5.85/-11.49</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly04" description="" target="_blank" title="hide">
+        <polystring>-342.31/-13.33|-1.21/-14.61|-1.3/-15.79|-1.68/-16.5|-0.41/-20.83|-0.9/-20.69|-2.23/-17.12|-3.2/-17.61|-4.3/-17.9|-4.12/-23|-4.57/-23.13|-4.71/-22.07|-5.13/-23.79|-5.11/-25.91|-5.61/-25.82|-5.79/-25.07|-6.06/-26.03|-6.11/-27.22|-5.17/-27.24|-3.82/-37.65|-2.63/-44.05|-2.24/-47.81|-2.14/-55.2|-37.29/-51.84|-57.16/-50.24|-55.74/-64.34|-58.4/-65.97|-308.36/-63.51|-310.81/-60.62|-308.88/-58.31|-306.99/-36.68|-325.48/-29.13|-325.85/-31.65|-326.63/-30.87|-326.41/-28.85|-327.83/-28.03|-327.33/-23.15|-322.07/-21.49|-322.13/-19.77|-331.15/-22.23|-331.8/-18.87</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node5}" id="open" description="" backgroundalpha="0.552941" bordercolor="0x0000ff" target="$fwd" title="" backgroundcolor="0x0000ff" borderalpha="1">
+        <polystring>-8.71/8.35|-20.56/8.04|-19.85/-1.39|-9.26/-1.01</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image clickmode="0" id="Element03" pan="-29.640" tilt="0.150" width="1500" fov="6.000" height="1390" rotx="0.000" rotz="0.000" stretch="1.000" handcursor="0" roty="67.000">
+        <source url="media/hsimage.png"/>
+      </image>
+      <image clickmode="0" id="Element01" pan="-11.000" tilt="-10.150" width="1500" fov="6.000" height="1500" rotx="78.000" rotz="0.000" stretch="1.000" handcursor="0" roty="0.000">
+        <source url="media/hsimage.png"/>
+      </image>
+      <image clickmode="0" id="Element02" pan="-351.350" tilt="1.980" width="1500" fov="3.000" height="1500" rotx="0.000" rotz="0.000" stretch="1.000" handcursor="0" roty="4.000">
+        <source url="media/hsimage.png"/>
+      </image>
+      <lensflare id="Lensflare01" alpha="80.000" pan="-142.560" tilt="18.950" type="4" blinding="50.000" color="0xffffff"/>
+    </media>
+    <transition zoomoutpause="1" zoomin="0" type="crossdissolve" blendtime="0.1" zoomspeed="1.01" zoomafteroutfov="60" enabled="1" zoomout="0" zoomfov="70" blendcolor="0x000000" zoomafterinfov="70" softedge="0"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" sensitivity="11" lockedmouse="0" lockedwheel="0" speedwheel="1" rubberband="0" invertcontrol="1" dblclickfullscreen="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="0" hideabout="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="1632" height="1632" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="516" levelbias="0.400">
+      <level preload="0" width="1632" height="1632" predecode="0"/>
+      <level preload="0" width="816" height="816" predecode="0"/>
+      <level preload="1" width="408" height="408" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="9" tilt="0" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="35.8"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="76.8" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="360" latitude="" author="" longitude="" nodeid="node5" datetime="2022:08:02 16:10:30" info="" source="" comment="" customnodeid="" copyright="" title="" heading="0"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20" wordwrap="1" enabled="0" background="1" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle backgroundalpha="0.156863" bordercolor="0xcacaca" mode="2" handcursor="1" backgroundcolor="0xffffff" borderalpha="0.392157"/>
+      <polyhotspot url="{node8}" id="enter" description="" backgroundalpha="0.552941" bordercolor="0x0000ff" target="$fwd" title="" backgroundcolor="0x0000ff" borderalpha="1">
+        <polystring>-8.71/8.35|-20.56/8.04|-19.85/-1.39|-9.26/-1.01</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="panoinfo" description="Text de testare 2" target="_blank" title="Oglinda">
+        <polystring>-29.96/-6.6|-28.83/-5.94|-27.87/-4.29|-27.31/-1.88|-27.24/0.51|-27.4/2.96|-28.03/5.38|-29.09/6.8|-29.89/7.06|-30.96/6.7|-31.76/5.39|-32.59/3.04|-32.78/0.35|-32.55/-2.38|-32.15/-4.33|-31.45/-5.81|-30.59/-6.43</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="panoinfo" description="Masa unui corp sau a unei particule este una din cele 7 mărimi fizice fundamentale. Masa se definește ca o mărime ce determină măsura inerției unui corp sau particulă, determinabilă la nivel macroscopic și măsurată, de asemenea, macroscopic. Totodată, masa, prin intermediul masei atomice este legată de cantitatea de substanță conținută într-un corp sau sistem fizic închis. Masa este o mărime fundamentală, scalară și extensivă; pentru sistemele fizice macroscopice are caracter de mărime globală. A nu se confunda cu greutatea unui corp, care este o forță." backgroundalpha="0" bordercolor="0x0000ff" target="_blank" title="Masa" backgroundcolor="0x0000ff" borderalpha="0">
+        <polystring>-5.28/-11.29|-4.59/-11.11|-3.97/-10.83|-3.69/-10.39|-3.88/-10.06|-4.76/-9.62|-5.92/-9.41|-8.03/-9.12|-10.37/-9.03|-13.05/-9.13|-16.6/-9.42|-18.07/-9.93|-18.41/-10.38|-18.3/-10.73|-17.53/-11.14|-16.07/-11.54|-15.83/-11.05|-15.34/-11.02|-10.2/-11.22|-5.85/-11.49</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly04" description="" target="_blank" title="hide">
+        <polystring>-342.31/-13.33|-1.21/-14.61|-1.3/-15.79|-1.68/-16.5|-0.41/-20.83|-0.9/-20.69|-2.23/-17.12|-3.2/-17.61|-4.3/-17.9|-4.12/-23|-4.57/-23.13|-4.71/-22.07|-5.13/-23.79|-5.11/-25.91|-5.61/-25.82|-5.79/-25.07|-6.06/-26.03|-6.11/-27.22|-5.17/-27.24|-3.82/-37.65|-2.63/-44.05|-2.24/-47.81|-2.14/-55.2|-37.29/-51.84|-57.16/-50.24|-55.74/-64.34|-58.4/-65.97|-308.36/-63.51|-310.81/-60.62|-308.88/-58.31|-306.99/-36.68|-325.48/-29.13|-325.85/-31.65|-326.63/-30.87|-326.41/-28.85|-327.83/-28.03|-327.33/-23.15|-322.07/-21.49|-322.13/-19.77|-331.15/-22.23|-331.8/-18.87</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <image clickmode="0" id="Element03" pan="-29.640" tilt="0.150" width="1500" fov="6.000" height="1390" rotx="0.000" rotz="0.000" stretch="1.000" handcursor="0" roty="67.000">
+        <source url="media/hsimage.png"/>
+      </image>
+      <image clickmode="0" id="Element01" pan="-11.000" tilt="-10.150" width="1500" fov="6.000" height="1500" rotx="78.000" rotz="0.000" stretch="1.000" handcursor="0" roty="0.000">
+        <source url="media/hsimage.png"/>
+      </image>
+      <image clickmode="0" id="Element02" pan="-351.350" tilt="1.980" width="1500" fov="3.000" height="1500" rotx="0.000" rotz="0.000" stretch="1.000" handcursor="0" roty="4.000">
+        <source url="media/hsimage.png"/>
+      </image>
+      <lensflare id="Lensflare01" alpha="80.000" pan="-142.560" tilt="18.950" type="4" blinding="50.000" color="0xffffff"/>
+    </media>
+    <transition zoomoutpause="1" zoomin="0" type="crossdissolve" blendtime="0.1" zoomspeed="1.01" zoomafteroutfov="60" enabled="1" zoomout="0" zoomfov="70" blendcolor="0x000000" zoomafterinfov="70" softedge="0"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" sensitivity="11" lockedmouse="0" lockedwheel="0" speedwheel="1" rubberband="0" invertcontrol="1" dblclickfullscreen="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="0" hideabout="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="1024" height="1024" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="516" levelbias="0.400">
+      <level preload="0" width="1024" height="1024" predecode="0"/>
+      <level preload="1" width="512" height="512" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="-50" tilt="-2" fov="70"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="200"/>
+      <min pan="0" tilt="-90" fov="35.8"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="76.8" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="DORMITOR" tags="images" latitude="" author="" longitude="" nodeid="node3" datetime="" info="" source="" comment="" customnodeid="" copyright="" title="Str. Moinești, București" heading="0"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20" wordwrap="1" enabled="0" background="1" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle backgroundalpha="0.156863" bordercolor="0xcacaca" mode="2" handcursor="1" backgroundcolor="0xffffff" borderalpha="0.392157"/>
+      <polyhotspot url="{node1}" id="Poly01" description="" target="" title="">
+        <polystring>-14.22/11.05|-27.64/10.38|-27.8/-20.11|-14.44/-20.96</polystring>
+      </polyhotspot>
+      <polyhotspot url="" id="Poly02" description="" target="_blank" title="hide">
+        <polystring>-251.88/-44.51|-263.21/-51.11|-295.89/-50.22|-48.33/-68.26|-61.96/-70.31|-68.12/-61.93|-61.5/-53.73|-65.07/-48.74|-65.68/-37.21|-34.53/-21.39|-25.93/-23.5|-23.68/-27.86|-20.17/-21.04|-33.99/-18.95|-47.65/-23.28|-86.21/-32.25|-88.53/-29.79|-113.28/-28.77|-133.46/-48.32|-241.06/-47.15</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media>
+      <video rotz="-2.000" mode="3" field="90.000" handcursor="0" loop="1" startmutedmobile="0" roty="0.000" tilt="-1.820" stretch="1.000" rotx="0.000" fov="25.420" height="192" pansize="10.000" nodechangekeep="0" clickmode="2" level="1.000" pan="-72.580" ambientlevel="0.000" tiltsize="10.000" width="304" id="Element01">
+        <source url="media/Sequence1 01.mp4"/>
+      </video>
+      <image clickmode="0" id="Element02" pan="-20.850" tilt="-4.840" width="1500" fov="6.000" height="1500" rotx="0.000" rotz="0.000" stretch="1.000" handcursor="0" roty="-8.000">
+        <source url="media/hsimage.png"/>
+      </image>
+    </media>
+    <transition zoomoutpause="1" zoomin="0" type="crossdissolve" blendtime="0.1" zoomspeed="1.01" zoomafteroutfov="60" enabled="1" zoomout="0" zoomfov="70" blendcolor="0x000000" zoomafterinfov="70" softedge="0"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" sensitivity="11" lockedmouse="0" lockedwheel="0" speedwheel="1" rubberband="0" invertcontrol="1" dblclickfullscreen="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="0" hideabout="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="1632" height="1632" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="516" levelbias="0.400">
+      <level preload="0" width="1632" height="1632" predecode="0"/>
+      <level preload="0" width="816" height="816" predecode="0"/>
+      <level preload="1" width="408" height="408" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="85" tilt="0" fov="116"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="35.8"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="76.8" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="360" latitude="" author="" longitude="" nodeid="node6" datetime="8/2/2022 16:26" info="" source="" comment="" customnodeid="" copyright="" title="IMG_20220802_162632_00_236.insp" heading="0"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20" wordwrap="1" enabled="0" background="1" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle backgroundalpha="0.156863" bordercolor="0xcacaca" mode="2" handcursor="1" backgroundcolor="0xffffff" borderalpha="0.392157"/>
+      <polyhotspot url="{node8}" id="Poly01" description="" target="" title="">
+        <polystring>-66.82/36.74|-129.58/30.1|-131.25/-65.61|-67.83/-70.46</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomin="0" type="crossdissolve" blendtime="0.1" zoomspeed="1.01" zoomafteroutfov="60" enabled="1" zoomout="0" zoomfov="70" blendcolor="0x000000" zoomafterinfov="70" softedge="0"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" sensitivity="11" lockedmouse="0" lockedwheel="0" speedwheel="1" rubberband="0" invertcontrol="1" dblclickfullscreen="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="0" hideabout="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="1632" height="1632" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="516" levelbias="0.400">
+      <level preload="0" width="1632" height="1632" predecode="0"/>
+      <level preload="0" width="816" height="816" predecode="0"/>
+      <level preload="1" width="408" height="408" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="92.04" tilt="-8.38" fov="67"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="35.8"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="76.8" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="360" latitude="" author="" longitude="" nodeid="node7" datetime="" info="" source="" comment="" customnodeid="" copyright="" title="" heading="0"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20" wordwrap="1" enabled="0" background="1" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle backgroundalpha="0.156863" bordercolor="0xcacaca" mode="2" handcursor="1" backgroundcolor="0xffffff" borderalpha="0.392157"/>
+      <polyhotspot url="{node6}" id="Poly01" description="" target="" title="">
+        <polystring>-311.65/13.63|-330.51/17.47|-329.6/-46.78|-310.59/-38.85</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node8}" id="Poly02" description="" target="" title="">
+        <polystring>-16.51/19.27|-27.2/28.66|-25.27/-56.86|-14.47/-42.7</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomin="0" type="crossdissolve" blendtime="0.1" zoomspeed="1.01" zoomafteroutfov="60" enabled="1" zoomout="0" zoomfov="70" blendcolor="0x000000" zoomafterinfov="70" softedge="0"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" sensitivity="11" lockedmouse="0" lockedwheel="0" speedwheel="1" rubberband="0" invertcontrol="1" dblclickfullscreen="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="0" hideabout="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" width="1632" height="1632" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="516" levelbias="0.400">
+      <level preload="0" width="1632" height="1632" predecode="0"/>
+      <level preload="0" width="816" height="816" predecode="0"/>
+      <level preload="1" width="408" height="408" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="0">
+      <start projection="4" pan="79.21" tilt="-3.98" fov="77.25"/>
+      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fov="35.8"/>
+      <max scaletofit="1" pan="360" tilt="90" fov="76.8" fovstereographic="270" fovfisheye="360"/>
+    </view>
+    <userdata description="" tags="360" latitude="" author="" longitude="" nodeid="node8" datetime="" info="" source="" comment="" customnodeid="" copyright="" title="" heading="0"/>
+    <hotspots width="180" height="20" wordwrap="1">
+      <label borderradius="1" textcolor="0x000000" backgroundalpha="1" width="180" bordercolor="0x000000" height="20" wordwrap="1" enabled="0" background="1" textalpha="1" border="1" backgroundcolor="0xffffff" borderalpha="1"/>
+      <polystyle backgroundalpha="0.156863" bordercolor="0xcacaca" mode="2" handcursor="1" backgroundcolor="0xffffff" borderalpha="0.392157"/>
+      <polyhotspot url="{node7}" id="Poly01" description="" target="" title="">
+        <polystring>-329.95/12.44|-347.73/13.05|-347.39/-30.89|-330.6/-30.47</polystring>
+      </polyhotspot>
+      <polyhotspot url="{node1}" id="Poly02" description="" target="" title="">
+        <polystring>-290.73/8.38|-311.65/11.91|-311.75/-15.65|-308.24/-16.59|-298.88/-14.2|-298.71/-12.55|-293.93/-11.63</polystring>
+      </polyhotspot>
+    </hotspots>
+    <media/>
+    <transition zoomoutpause="1" zoomin="0" type="crossdissolve" blendtime="0.1" zoomspeed="1.01" zoomafteroutfov="60" enabled="1" zoomout="0" zoomfov="70" blendcolor="0x000000" zoomafterinfov="70" softedge="0"/>
+    <soundstransition crossfade="0" enabled="1" transitiontime="2"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control simulatemass="1" sensitivity="11" lockedmouse="0" lockedwheel="0" speedwheel="1" rubberband="0" invertcontrol="1" dblclickfullscreen="1" lockedkeyboard="0" invertwheel="0" lockedkeyboardzoom="0" contextfullscreen="1" contextprojections="0" hideabout="1" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata description="" tags="" latitude="" author="" longitude="" nodeid="master" datetime="" info="" source="" comment="" customnodeid="" copyright="" title="" heading="0"/>
+  </masternode>
+</tour>
